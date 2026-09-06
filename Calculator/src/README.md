@@ -60,6 +60,7 @@ It performs:
 9. The result is displayed using displayLabel.
 10. clearAll() resets the calculation values.
 11. removeZeroDecimal() removes .0 from whole-number results.
+12. 
 
 ## Code Flow
 
@@ -87,3 +88,6 @@ The √ button is currently present in the button list, but its functionality ha
 - Arrays and loops
 - Basic calculator logic
 - Working with Swing components
+
+
+  
