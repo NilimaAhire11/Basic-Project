@@ -49,7 +49,7 @@ It performs:
 
 ## How the Code Works
 
-01. JFrame creates the calculator window.
+1. JFrame creates the calculator window.
 2. JLabel is used as the display.
 3. buttonValues array stores all button names.
 4. A for loop creates the buttons.
