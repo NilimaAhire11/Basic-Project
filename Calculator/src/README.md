@@ -60,7 +60,6 @@ It performs:
 9. The result is displayed using displayLabel.
 10. clearAll() resets the calculation values.
 11. removeZeroDecimal() removes .0 from whole-number results.
-12. 
 
 ## Code Flow
 
