@@ -35,6 +35,7 @@ public class Calculator {
     String operator = null;
     String B = null;
 
+    
     Calculator(){
         frame.setVisible(true);
         frame.setSize(boardWidth, boardHeight);
