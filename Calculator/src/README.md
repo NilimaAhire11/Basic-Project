@@ -49,6 +49,7 @@ It performs:
 - operator → Stores the selected operator.
 - B → Stores the second number.
 
+
 ## How the Code Works
 
 1. JFrame creates the calculator window.
